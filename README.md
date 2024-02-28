@@ -5,7 +5,7 @@ To ensure functionaility it is imparitive to test the core functionaility of the
 
 ## How do I interpret user needs and incorporate them into a program?
 
-The most important step in interpereting a client or user needs into a program is requireing all of the necissary requirements for the system. Gathering all of the expected functional and buisness requirements when in communication with a user or client ensures that you require all of the necissary context for the system. This way you can talk into account the requiremnets for the system in the design of the system and implement these requirements into developing the software including all of the neccisary user needs. 
+The most important step in interpereting a client or user needs into a program is requireing all of the necissary requirements for the system. Gathering all of the expected functional and buisness requirements when in communication with a user or client ensures that you require all of the necissary context for the system. This way you can take into account the requirements for the system in the design of the system and implement these requirements into developing the software including all of the neccisary user needs. 
 
 ## How do I approach designing software?
 
